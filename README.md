@@ -61,8 +61,8 @@ Made with HTML, Sass and Javascript.
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-expenses-chart-card-html-sass-vite-javascript-kYSwwkKaYQ)
+- Live Site URL: [Live Site URL here](https://expenses-chart-card.vercel.app/)
 
 ## Author
 
